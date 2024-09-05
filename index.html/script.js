@@ -20,11 +20,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como você pode ajudar a combater a disseminação de fake news, especialmente as que perpetuam o racismo?",
+        enunciado: "Qual papel as políticas governamentais desempenham na proteção ambiental?",
         alternativas: [
             {
-                texto: "Verificando a veracidade das informações antes de compartilhar qualquer conteúdo, especialmente sobre temas sensíveis como racismo.",
-                afirmacao: "afirmacao3"
+                texto: " Implementar regulamentações rigorosas sobre poluição e emissões.",
+                afirmacao: "Regulamentações rigorosas ajudam a controlar e reduzir a poluição industrial e as emissões de gases, forçando empresas a adotar práticas mais limpas e sustentáveis."
             },
             {
                 texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
