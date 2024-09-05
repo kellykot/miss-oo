@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: " Qual é a melhor abordagem para reduzir o impacto ambiental das atividades humanas?"
+        enunciado: " Qual é a melhor abordagem para reduzir o impacto ambiental das atividades humanas?",
         alternativas: [
             {
                 texto: "Investir em tecnologias verdes",
                 afirmacao: "Tecnologias verdes, como painéis solares e turbinas eólicas, ajudam a reduzir a dependência de fontes de energia fósseis e diminuem a emissão de gases de efeito estufa."
             },
             {
-                texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
-                afirmacao: "afirmacao2"
+                texto: "Promover a redução do consumo e o estilo de vida minimalista.",
+                afirmacao: "Adotar um estilo de vida minimalista reduz a demanda por recursos naturais e diminui a geração de resíduos, promovendo um consumo mais consciente e sustentável."
             }
            
         ]
