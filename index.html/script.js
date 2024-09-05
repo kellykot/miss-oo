@@ -34,15 +34,15 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Como podemos incentivar o uso de energia solar e outras formas de energia limpa, especialmente em comunidades carentes?",
+        enunciado: "O que é mais eficaz para a conservação da biodiversidade?",
         alternativas: [
             {
-                texto: "Defendendo políticas públicas que subsidiem a energia solar para famílias de baixa renda.",
-                afirmacao:"afirmacao5"
+                texto: "Criar e manter áreas protegidas e reservas naturais",
+                afirmacao:"Áreas protegidas servem como refúgios para espécies ameaçadas e preservam habitats naturais, ajudando a manter a biodiversidade e os ecossistemas intactos."
             },
             {
-                texto: "Promovendo a instalação de painéis solares em escolas e centros comunitários de comunidades marginalizadas.",
-                afirmacao:"afirmacao6"
+                texto: "Promover práticas agrícolas e pesqueiras sustentáveis.",
+                afirmacao:"Práticas sustentáveis na agricultura e na pesca evitam a degradação de habitats e a sobreexploração de recursos, ajudando a conservar a biodiversidade e a saúde dos ecossistemas."
             }
         ]
     }
