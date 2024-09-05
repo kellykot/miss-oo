@@ -27,8 +27,8 @@ const perguntas = [
                 afirmacao: "Regulamentações rigorosas ajudam a controlar e reduzir a poluição industrial e as emissões de gases, forçando empresas a adotar práticas mais limpas e sustentáveis."
             },
             {
-                texto: "Educando amigos e familiares sobre os perigos das fake news e incentivando-os a não compartilhar conteúdos falsos que perpetuam o racismo.",
-                afirmacao: "afirmacao4"
+                texto: "Incentivar a educação ambiental e a conscientização pública.",
+                afirmacao: "Educação e conscientização aumentam a compreensão pública sobre questões ambientais e incentivam comportamentos mais sustentáveis, contribuindo para a proteção do meio ambiente a longo prazo."
             }
            
         ]
