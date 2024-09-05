@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Como você acredita que podemos combater o racismo na sociedade?",
+        enunciado: " Qual é a melhor abordagem para reduzir o impacto ambiental das atividades humanas?"
         alternativas: [
             {
-                texto: "Participando de campanhas de conscientização e educação sobre igualdade racial.",
-                afirmacao: "afirmacao1"
+                texto: "Investir em tecnologias verdes",
+                afirmacao: "Tecnologias verdes, como painéis solares e turbinas eólicas, ajudam a reduzir a dependência de fontes de energia fósseis e diminuem a emissão de gases de efeito estufa."
             },
             {
                 texto: "Denunciando atos de discriminação e apoiando políticas públicas inclusivas.",
